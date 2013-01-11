@@ -9,13 +9,13 @@
 	url = git://git.eclipse.org/gitroot/vjet/org.eclipse.vjet.dltk.git
 [submodule "core"]
 	path = core
-	url = git://git.eclipse.org/gitroot/vjet/org.eclipse.vjet.core.git
+	url = git@github.com:dgolovin/vjet.core.git
 [submodule "vsf"]
 	path = vsf
 	url = git://git.eclipse.org/gitroot/vjet/org.eclipse.vjet.vsf.git
 [submodule "eclipse"]
 	path = eclipse
-	url = git://git.eclipse.org/gitroot/vjet/org.eclipse.vjet.eclipse.git
+	url = git@github.com:dgolovin/vjet.eclipse.git
 [submodule "dltk"]
 	path = dltk
 	url = git://git.eclipse.org/gitroot/vjet/org.eclipse.vjet.dltk.git
@@ -24,4 +24,4 @@
 	url = git://git.eclipse.org/gitroot/vjet/org.eclipse.vjet.rhino.git
 [submodule "jsdt.parser"]
 	path = jsdt.parser
-	url = git://git.eclipse.org/gitroot/vjet/org.eclipse.vjet.jsdt.parser.git
+	url = git@github.com:dgolovin/vjet.jsdt.parser.git
